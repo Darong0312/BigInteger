@@ -1,0 +1,13 @@
+/****************************************************************************************
+*  Darong Li, dli97
+*  2022 Winter CSE101 PA6
+*
+*  List.cpp	      	- The List ADT
+*  List.h   	      	- The Header File for List ADT
+*  BigInteger.cpp     	- The BigInteger ADT
+*  BigInteger.h       	- The Header File for BigInteger ADT
+*  BigIntegerTest.cpp 	- The Test Client for BigInteger ADT
+*  Arthmetic.cpp 	- The Main Program for pa6
+*  Makefile
+*  README
+*****************************************************************************************/
